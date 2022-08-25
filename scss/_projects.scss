@@ -1,0 +1,50 @@
+.about_name{
+ font-size: 1.5rem;
+ font-weight:600;
+}
+.projects{
+ padding-bottom:2rem ;
+
+ &__bio-image{
+
+  text-align: center;
+
+  height: 200vh;
+  width: 100%;
+
+background-size: cover;
+.empty{
+ height: 100px;
+}
+.about_img{
+ border-radius: 191px;
+ margin-top: 6rem;
+
+}
+.about_text{
+  margin-top: 3rem;
+}
+.text-secondary{
+  margin-bottom: 2rem;
+  border-bottom: 1px solid;
+  padding-bottom: 2rem;
+}
+.projects__item{
+ width: 500px;
+    margin-left: 25px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+
+ img{
+  width: 100%;
+ }
+
+}
+.projects__item:hover{
+ cursor: pointer;
+ background: rgb(244, 33, 33);
+}
+ }
+ 
+}
